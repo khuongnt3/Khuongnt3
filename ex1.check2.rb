@@ -9,3 +9,11 @@ if (diff_files.include?(SCENE_5))
 else
 	exit 1
 end
+
+
+
+
+if 2>1 
+	a=1123123123
+else 
+	b=asdaasdasdasd
